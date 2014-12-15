@@ -1,0 +1,4 @@
+goef
+====
+
+effective go practice
